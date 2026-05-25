@@ -5,7 +5,7 @@
 * 🌍 still figuring out where this journey takes me
 * 🤝 open to collabs — hit me up if you got something cool
 
-**📫 reach me:** [LinkedIn](https://www.linkedin.com/in/eabxrry/) · [Email](hello@eabarry.dev) · [Portfolio](https://eabarry.dev)
+**reach me:** [LinkedIn](https://www.linkedin.com/in/eabxrry/) · [Email](hello@eabarry.dev) · [Portfolio](https://eabarry.dev)
 <!--
 **eabxrry/eabxrry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
